@@ -1,0 +1,15 @@
+.venv/
+.jupyter/
+.ipython/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Course/private data is intentionally not bundled.
+*.mat
+
+# Local verification, submission exports, and scratch artifacts.
+*.executed.ipynb
+*_backup.ipynb
+sdadhich_*.ipynb
+sdadhich_part_*.png
